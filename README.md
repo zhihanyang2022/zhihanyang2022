@@ -17,5 +17,5 @@
 ### Good resources on reinforcement learning
 
 - [OpenAI Spinning Up](https://spinningup.openai.com/en/latest/index.html)
-  - They have the clearest explanation of DDPG; it was much easier to read then the original paper.
+  - They have the clearest explanation of DDPG; it was much easier to read than the original paper.
 - Think you can't use Mujoco? Well, think twice. Mujoco offers free student / 30-day trial licenses [here](https://www.roboti.us/license.html).
