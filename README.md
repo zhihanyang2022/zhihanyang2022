@@ -14,7 +14,7 @@
 - Find a working repository and try to mold it into your code - then you can tell the differences. 
 - Ask someone else to look at it.
 
-### Good resources on reinforcement learning
+### Surprisingly good resources on reinforcement learning
 
 - [OpenAI Spinning Up](https://spinningup.openai.com/en/latest/index.html)
   - They have the clearest explanation of DDPG; it was much easier to read than the original paper.
