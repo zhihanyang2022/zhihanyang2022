@@ -7,6 +7,14 @@
 - Email: yangz2@carleton.edu
 - Research interests: machine learning theory, Python, PyTorch, deep reinforcement learning
 
+### Favorite quotes for curbing anxiety in modern age
+
+- I think everyone should get rich and famous and get everything they dreamed of so they can see that's not the answer - Jim Carrey.
+- Pain is inevitable, but suffering is a choice - not me.
+- To live a meaningful life (有意义), you should first strive to live an interesting and fun life (有意思) - not me.
+
+I'm just another human being trying to enjoy life in the face of many challenges. If I can do it, you can do it!
+
 ### Tips on debugging machine learning code (and anecdotes)
 
 - Do a lot of shape checking (use print statements or debugger) to prevent incorrect broadcasting.
