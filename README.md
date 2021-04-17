@@ -7,7 +7,9 @@
 - Email: yangz2@carleton.edu
 - Research interests: machine learning theory, Python, PyTorch, deep reinforcement learning
 
-### Favorite quotes for curbing anxiety in the modern age (i.e., high tech low life, kind of like cyberpunk, huh?)
+### Favorite quotes for curbing anxiety in the modern age
+
+I think the modern age can be perfectly described by the phrase "high tech low life", a phrase used to describe cyberpunk worlds. 
 
 Stop putting all your time in work
 - Everyone should get rich and famous and get everything they dreamed of so they can see that's not the answer - Jim Carrey.
