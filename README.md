@@ -7,6 +7,10 @@
 - Email: yangz2@carleton.edu (I love connecting with people)
 - Research interests: machine learning theory, Python, PyTorch, deep reinforcement learning
 
+### Tips on writing readable Python code
+
+- Always, always add argument and return type hints.
+
 ### Tips on debugging machine learning code (and anecdotes)
 
 - Do a lot of shape checking (use print statements or debugger) to prevent incorrect broadcasting.
