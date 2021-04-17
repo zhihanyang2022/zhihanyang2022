@@ -13,7 +13,7 @@
 - Pain is inevitable, but suffering is a choice - not me.
 - To live a meaningful life (有意义), you should first strive to live an interesting and fun life (有意思) - not me.
 
-I'm just another human being trying to enjoy life in the face of many challenges. If I can do it, you can do it!
+I'm just another human being trying to enjoy life in the face of many challenges. If I can do it, then you can do it!
 
 ### Tips on debugging machine learning code (and anecdotes)
 
