@@ -17,3 +17,4 @@
 
 - [OpenAI Spinning Up](https://spinningup.openai.com/en/latest/index.html)
   - They have the clearest explanation of DDPG. To me, it was much easier to read then the original paper.
+- Think you can't use Mujoco? Think twice. Mujoco overs a free student license or a 30-day free trial license [here](https://www.roboti.us/license.html).
