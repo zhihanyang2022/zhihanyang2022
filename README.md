@@ -7,7 +7,7 @@
 - Email: yangz2@carleton.edu
 - Research interests: machine learning theory, Python, PyTorch, deep reinforcement learning
 
-### Favorite quotes for curbing anxiety in modern age
+### Favorite quotes for curbing anxiety in the modern age (i.e., high tech low life, kind of like cyberpunk, huh?)
 
 Stop putting all your time in work
 - Everyone should get rich and famous and get everything they dreamed of so they can see that's not the answer - Jim Carrey.
