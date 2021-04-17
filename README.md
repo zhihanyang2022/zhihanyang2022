@@ -1,13 +1,13 @@
-### Who am I
+### About me
 
-- 🔭  I’m currently working on deep reinforcement learning.
-- 🌱  I’m currently learning how to code better.
-- 💬  Ask me about Pytorch.
-- 📫  How to reach me: yangz2@carleton.edu
-- 😄  Pronouns: he/him/his
-- ⚡  Fun fact: I once spent 3 days debugging: it was about broadcasting.
+- Name: Zhihan
+- Pronouns: he/him/his
+- Major: Mathematics
+- Affiliation: Carleton College
+- Email: yangz2@carleton.edu
+- Research interests: machine learning theory, Python, PyTorch, deep reinforcement learning
 
-### How to debug ML code?
+### Tips on debugging machine learning code
 
 - Do a lot of shape checking (use print statements or debugger).
 - Find a working repository and try to mold it into your code - then you can tell the differences. 
