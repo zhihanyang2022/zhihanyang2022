@@ -3,7 +3,7 @@
 - Name: Zhihan
 - Pronouns: he/him/his
 - Major: Mathematics
-- Affiliation: Carleton College
+- Affiliation: Carleton College (in Minnesota)
 - Email: yangz2@carleton.edu
 - Research interests: machine learning theory, Python, PyTorch, deep reinforcement learning
 
