@@ -24,6 +24,8 @@
 
 - [OpenAI Spinning Up](https://spinningup.openai.com/en/latest/index.html)
   - They have the clearest explanation of DDPG; it was much easier to read than the original paper.
+  - Allow you to visualize Mujoco tasks and policies (really cool)
+    - In case of `GLEW initialization error: Missing GL version`, use https://github.com/openai/mujoco-py/issues/268.
 - Think you can't use Mujoco? Well, think twice. Mujoco offers free student / 30-day trial licenses [here](https://www.roboti.us/license.html).
 
 ### Favorite quotes for curbing anxiety in the modern age
