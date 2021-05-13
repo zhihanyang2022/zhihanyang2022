@@ -7,6 +7,20 @@
 - Email: yangz2@carleton.edu (I love connecting with people)
 - Research interests: machine learning theory, Python, PyTorch, deep reinforcement learning
 
+### How to use SSH key pairs for Github pull and push?
+
+- `ssh-keygen -t rsa`
+- Enter `github_rsa` as key name.
+- Copy and paste the public key to Github.
+- Add the following to `~/.ssh/config` (if there isn't one, create one via vim)
+
+```
+Host github.com
+  IdentityFile ~/.ssh/github_rsa
+```
+
+- Good to go!
+
 ### Tips on writing readable Python code
 
 - Always, always add argument and return type hints.
