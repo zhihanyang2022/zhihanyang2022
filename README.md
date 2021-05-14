@@ -5,5 +5,5 @@
 - Major: Mathematics & CS
 - Affiliation: Carleton College, Northfield, Minnesota
 - Email: yangz2@carleton.edu
-- Blog: [RL Posts](zhihanyang2022.github.io/rl)
+- Blog: [RL Posts](https://zhihanyang2022.github.io/rl)
 - Research interests: machine learning theory, Python, PyTorch, deep reinforcement learning
