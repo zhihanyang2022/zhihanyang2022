@@ -10,4 +10,4 @@
 
 - Old [blog](https://zhihanyang2022.github.io/rl) on classic algorithms in Sutton & Barto
 - Dense textbooks on machine learning theory, deep learning, reinforcement learning
-- Understanding and reproducing papers, and publishing high-quality software on Github. Stay tuned for more pinned repos!  
+- Understanding and reproducing papers, and publishing high-quality software on Github
