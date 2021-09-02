@@ -9,4 +9,4 @@
 
 ### Research interests
 
-Machine learning theory, Python, PyTorch, deep reinforcement learning
+Machine learning theory, deep learning, reinforcement learning
