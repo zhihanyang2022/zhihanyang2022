@@ -6,7 +6,7 @@
 - Affiliation: Carleton College, Northfield, Minnesota
 - Email: yangz2@carleton.edu
 
-### Research interests
+### Spare-time interests
 
 - Old [blog](https://zhihanyang2022.github.io/rl) on classic algorithms in Sutton & Barto
 - Dense textbooks on machine learning theory, deep learning, reinforcement learning
