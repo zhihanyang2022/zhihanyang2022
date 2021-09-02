@@ -5,7 +5,7 @@
 - Major: Mathematics & CS
 - Affiliation: Carleton College, Northfield, Minnesota
 - Email: yangz2@carleton.edu
-- Blog: [RL Posts](https://zhihanyang2022.github.io/rl)
+- Blog: [RL Posts](https://zhihanyang2022.github.io/rl) on classic algorithms in Sutton & Barto
 
 ### Research interests
 
