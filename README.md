@@ -9,6 +9,5 @@
 
 ### Research interests
 
-Machine learning theory, deep learning, reinforcement learning
-
-I like understanding and reproducing papers, and publishing high-quality software on Github. Stay tuned! 
+- Machine learning theory, deep learning, reinforcement learning
+- I like understanding and reproducing papers, and publishing high-quality software on Github. Stay tuned! 
