@@ -4,7 +4,7 @@
 - Pronouns: he/him/his
 - Major: Mathematics & CS
 - Affiliation: Carleton College, Northfield, Minnesota, USA
-- Email: yangz2@carleton.edu
+- Email: yangz2 at carleton.edu
 
 ### Spare-time interests
 
