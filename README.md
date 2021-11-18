@@ -12,4 +12,4 @@
 - Reading great (text-) books on machine learning theory, deep learning, reinforcement learning
 - Understanding and reproducing papers, and writing high-quality software on Github
 
-*Sometimes there's no choice but to advance, but when you look back that was exactly the right thing to do.*
+*Sometimes, there's no choice but to advance, but when you look back that was exactly the right thing to do, even if you had choices.*
