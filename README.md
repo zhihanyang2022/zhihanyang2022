@@ -3,7 +3,7 @@
 - Name: Zhihan Yang
 - Pronouns: he/him/his
 - Major: Mathematics (taken plenty of CS courses)
-- Affiliation: Carleton College, Northfield, Minnesota, USA
+- Affiliation: Carleton College @ Northfield, Minnesota, USA
 - Email: yangz2 at carleton dot edu
 
 ### Spare-time interests
