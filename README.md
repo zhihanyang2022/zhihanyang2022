@@ -11,3 +11,8 @@
 - Writing, e.g., old [blog](https://zhihanyang2022.github.io/rl) on classic algorithms in Sutton & Barto
 - Reading great (text-) books on machine learning theory, deep learning, reinforcement learning
 - Understanding and reproducing papers, and writing high-quality software on Github
+
+### Books that I like a lot
+
+- Machine Learning: A Probabilistic Perspective by Kevin Murphy
+- Lost Connections by Johann Hari
