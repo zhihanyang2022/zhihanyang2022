@@ -13,6 +13,7 @@
 - Audio processing
 - Generative models
 - Reinforcement learning
+- Graph neural networks
 
 ### Spare-time interests
 
