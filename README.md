@@ -12,6 +12,12 @@
 - Reading great (text-) books on machine learning theory, deep learning, reinforcement learning
 - Understanding and reproducing papers, and writing high-quality software on Github
 
+### Projects by category
+
+- Natural language processing
+- Generative models
+- Reinforcement learning
+
 ### Books that I like a lot
 
 - Machine Learning: A Probabilistic Perspective by Kevin Murphy
