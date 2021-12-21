@@ -12,8 +12,9 @@
 - Natural language processing
 - Audio processing
 - Generative models
+- Stochastic variational inference (TODO)
 - Reinforcement learning
-- Graph neural networks
+- Graph neural networks (TODO)
 
 ### Spare-time interests
 
