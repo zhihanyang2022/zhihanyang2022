@@ -8,6 +8,7 @@
 
 ### Projects by category
 
+- Computer vision
 - Natural language processing
 - Generative models
 - Reinforcement learning
