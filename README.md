@@ -10,6 +10,7 @@
 
 - Computer vision
 - Natural language processing
+- Audio processing
 - Generative models
 - Reinforcement learning
 
