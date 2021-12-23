@@ -10,7 +10,8 @@
 
 - Computer vision
 - Natural language processing
-  - A seq2seq model (without attention) that converts months from words into integers
+  - A seq2seq model (with optional attention) from scratch
+  - A Transformer model from scratch
 - Audio processing
 - Generative models
 - Stochastic variational inference (TODO)
