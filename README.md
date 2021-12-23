@@ -24,6 +24,8 @@ Reinforcement learning
 
 Graph neural networks (TODO)
 
+Unsupervised representation learning
+
 ### Spare-time interests
 
 - Writing, e.g., old [blog](https://zhihanyang2022.github.io/rl) on classic algorithms in Sutton & Barto
