@@ -8,15 +8,21 @@
 
 ### Projects by category
 
-- Computer vision
-- Natural language processing
-    - A seq2seq model (with optional attention) from scratch
-    - A Transformer model from scratch
-- Audio processing
-- Generative models
-- Stochastic variational inference (TODO)
-- Reinforcement learning
-- Graph neural networks (TODO)
+Computer vision
+
+Natural language processing
+- A seq2seq model (with optional attention) from scratch
+- A Transformer model from scratch
+
+Audio processing
+
+Generative models
+
+Stochastic variational inference (TODO)
+
+Reinforcement learning
+
+Graph neural networks (TODO)
 
 ### Spare-time interests
 
