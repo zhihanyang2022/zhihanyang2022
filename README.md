@@ -10,8 +10,8 @@
 
 - Computer vision
 - Natural language processing
-  - A seq2seq model (with optional attention) from scratch
-  - A Transformer model from scratch
+    - A seq2seq model (with optional attention) from scratch
+    - A Transformer model from scratch
 - Audio processing
 - Generative models
 - Stochastic variational inference (TODO)
