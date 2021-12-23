@@ -22,6 +22,8 @@ Generative models
 Stochastic variational inference (TODO)
 
 Reinforcement learning
+- DQN and its variants on ATARI (reproduce paper)
+- RL as one big sequence modelling problem (reproduce paper)
 
 Graph neural networks (TODO)
 
