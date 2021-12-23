@@ -17,6 +17,7 @@ Natural language processing
 Audio processing
 
 Generative models
+- Wasserstein GAN for 1d distributions and images
 
 Stochastic variational inference (TODO)
 
