@@ -1,5 +1,3 @@
-*I want to be embarrassed; I don't want to have regret.*
-
 ### About me
 
 - Name: Zhihan Yang
