@@ -1,6 +1,6 @@
 ### About me
 
-- Name: Zhihan Yang
+- Name: Zhihan Yang (I publish as Yang Zhi-Han)
 - Pronouns: he/him/his
 - Major: Mathematics (taken plenty of CS courses)
 - Affiliation: Carleton College @ Northfield, Minnesota, USA
