@@ -29,7 +29,7 @@ Graph neural networks (TODO)
 
 Unsupervised representation learning -->
 
-### Spare-time interests
+<!-- ### Spare-time interests
 
 - Writing, e.g., old [blog](https://zhihanyang2022.github.io/rl) on classic algorithms in Sutton & Barto
 - Reading great (text-) books on machine learning theory, deep learning, reinforcement learning
@@ -39,3 +39,4 @@ Unsupervised representation learning -->
 
 - Machine Learning: A Probabilistic Perspective by Kevin Murphy
 - Lost Connections by Johann Hari
+ -->
