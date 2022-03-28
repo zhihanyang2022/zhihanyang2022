@@ -6,6 +6,8 @@
 - Affiliation: Carleton College @ Northfield, Minnesota, USA
 - Email: yangz2 at carleton dot edu
 
+_Ready or not, here I come!_
+
 <!-- ### Projects by category
 
 Computer vision
