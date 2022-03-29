@@ -8,6 +8,8 @@
 
 _Ready or not, here I come!_
 
+I think a great achievement in research would be to discover something that seems completely unintuitive at first, but eventually get absorbed into people's intuition.
+
 <!-- ### Projects by category
 
 Computer vision
