@@ -6,7 +6,7 @@
 - Affiliation: Carleton College @ Northfield, Minnesota, USA
 - Email: yangz2 at carleton dot edu
 
-_Ready or not, here I come!_
+<!-- _Ready or not, here I come!_ -->
 
 I think a great achievement in research would be to discover something that seems completely unintuitive at first, but eventually get absorbed into people's intuition.
 
