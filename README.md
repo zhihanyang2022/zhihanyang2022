@@ -8,21 +8,6 @@
 
 ### Projects
 
-Computer vision
-
-Natural language processing
-- A seq2seq model (with optional attention) from scratch
-- A Transformer model from scratch
-
-Audio processing
-- 
-
-Generative models
-- Wasserstein GAN for 1d distributions and images
-
-<!-- Variational inference (TODO) -->
-
-Reinforcement learning
 
 <!-- ### Spare-time interests
 
