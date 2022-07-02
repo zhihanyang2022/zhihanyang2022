@@ -6,11 +6,7 @@
 - Affiliation: Carleton College @ Northfield, Minnesota, USA
 - Email: yangz2 at carleton dot edu
 
-<!-- _Ready or not, here I come!_ -->
-
-<!-- I think a great achievement in research would be to discover something that seems completely unintuitive at first, but eventually get absorbed into people's intuition. -->
-
-<!-- ### Projects by category
+### Projects
 
 Computer vision
 
@@ -19,19 +15,14 @@ Natural language processing
 - A Transformer model from scratch
 
 Audio processing
+- 
 
 Generative models
 - Wasserstein GAN for 1d distributions and images
 
-Stochastic variational inference (TODO)
+<!-- Variational inference (TODO) -->
 
 Reinforcement learning
-- DQN and its variants on ATARI (reproduce paper)
-- RL as one big sequence modelling problem (reproduce paper)
-
-Graph neural networks (TODO)
-
-Unsupervised representation learning -->
 
 <!-- ### Spare-time interests
 
