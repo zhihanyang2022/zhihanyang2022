@@ -8,7 +8,7 @@
 
 ### Projects
 
-- ![alpha-zero](https://github.com/zhihanyang2022/alpha-zero): Minimal AlphaZero in PyTorch, trained on Connect4.
+- [alpha-zero](https://github.com/zhihanyang2022/alpha-zero): Minimal AlphaZero in PyTorch, trained on Connect4.
 - `cnnvis`: A Python library for visualizing convolutional neural networks.
 
 <!-- ### Spare-time interests
