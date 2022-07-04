@@ -18,7 +18,7 @@ Sequence:
 - [super_mario_as_a_string](https://github.com/zhihanyang2022/super_mario_as_a_string): Replication of Super Mario as a String: Platformer Level Generation Via LSTMs. Written in Python using Keras.
 - [min-char-seq2seq](https://github.com/zhihanyang2022/min-char-seq2seq): Minimal character-level seq2seq in PyTorch for learners.
 
-Control:
+Reinforcement learning / Planning / Control:
 
 - [alpha-zero](https://github.com/zhihanyang2022/alpha-zero): Minimal AlphaZero in PyTorch, trained on Connect4.
 - [classic-rl](https://github.com/zhihanyang2022/classic_rl): A modular implementation of tabular RL algorithms. I used this codebase to write a few blog posts at https://zhihanyang2022.github.io/rl during Summer 2020.
