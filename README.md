@@ -8,8 +8,30 @@
 
 ### Projects
 
+Image:
+
+- [cnnvis](https://github.com/zhihanyang2022/cnnvis): A Python library for visualizing convolutional neural networks.
+- [gender-audio-classification](https://github.com/zhihanyang2022/gender_audio_classification): A speaker gender classifier. MFC feature engineering and a pre-trained ResNet-50. GradCAM interpretation.
+
+Sequence:
+
+- [super_mario_as_a_string](https://github.com/zhihanyang2022/super_mario_as_a_string) Replication of Super Mario as a String: Platformer Level Generation Via LSTMs. Written in Python using Keras.
+- [min-char-seq2seq](https://github.com/zhihanyang2022/min-char-seq2seq): Minimal character-level seq2seq in PyTorch for learners.
+
+Control:
+
 - [alpha-zero](https://github.com/zhihanyang2022/alpha-zero): Minimal AlphaZero in PyTorch, trained on Connect4.
-- `cnnvis`: A Python library for visualizing convolutional neural networks.
+- [classic-rl](https://github.com/zhihanyang2022/classic_rl): A modular implementation of tabular RL algorithms.
+- [off-policy-continuous-control](https://github.com/zhihanyang2022/off-policy-continuous-control): Recurrent Off-policy Baselines for Memory-based Continuous Control.
+- [pytorch-a2c](https://github.com/zhihanyang2022/pytorch-a2c): Synchronous n-step advantage actor-critic (A2C) with self-imitation learning in PyTorch
+- [pytorch-ppo](https://github.com/zhihanyang2022/pytorch-ppo): Minimal proximal policy gradient (clipped version) in PyTorch.
+- [d4rl-evaluations](https://github.com/zhihanyang2022/d4rl_evaluations/tree/main/results_analysis): Reproducing performance of offline reinforcement learning algorithms like behavior cloning, BCQ, BEAR and CQL on halfcheetah-v1
+
+More theoretical models:
+
+- [tmixfit](https://github.com/zhihanyang2022/tmixfit): Fast Expectation Maximization for Student-t mixture models in PyTorch.
+- [pytorch-vae](https://github.com/zhihanyang2022/pytorch-vae): Unbelievably minimal variational autoencoder using torch.distributions, trained on MNIST.
+- [pytorch-wgan](https://github.com/zhihanyang2022/pytorch-wgan): Minimal WGAN in PyTorch, trained on 1d datasets (with GIF animation).
 
 <!-- ### Spare-time interests
 
