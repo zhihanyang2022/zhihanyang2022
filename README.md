@@ -25,7 +25,7 @@ Reinforcement learning / Planning / Control:
 - [alpha-zero](https://github.com/zhihanyang2022/alpha-zero): Minimal AlphaZero in PyTorch, trained on Connect4.
 - [classic-rl](https://github.com/zhihanyang2022/classic_rl): A modular implementation of tabular RL algorithms. I used this codebase to write a few blog posts at https://zhihanyang2022.github.io/rl during Summer 2020.
 - [off-policy-continuous-control](https://github.com/zhihanyang2022/off-policy-continuous-control): [DeepRL Workshop, NeurIPS-21] Recurrent Off-policy Baselines for Memory-based Continuous Control (RDPG, RTD3 and RSAC)
-- [pytorch-a2c](https://github.com/zhihanyang2022/pytorch-a2c): Synchronous n-step advantage actor-critic (A2C) with self-imitation learning in PyTorch
+- [pytorch-a2c](https://github.com/zhihanyang2022/pytorch-a2c): Synchronous n-step advantage actor-critic (A2C) with self-imitation learning in PyTorch.
 - [pytorch-ppo](https://github.com/zhihanyang2022/pytorch-ppo): Minimal proximal policy gradient (clipped version) in PyTorch.
 - [d4rl-evaluations](https://github.com/zhihanyang2022/d4rl_evaluations/tree/main/results_analysis): Reproducing performance of offline reinforcement learning algorithms like behavior cloning, BCQ, BEAR and CQL on halfcheetah-v1.
 
