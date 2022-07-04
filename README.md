@@ -25,7 +25,7 @@ Control:
 - [off-policy-continuous-control](https://github.com/zhihanyang2022/off-policy-continuous-control): Recurrent Off-policy Baselines for Memory-based Continuous Control.
 - [pytorch-a2c](https://github.com/zhihanyang2022/pytorch-a2c): Synchronous n-step advantage actor-critic (A2C) with self-imitation learning in PyTorch
 - [pytorch-ppo](https://github.com/zhihanyang2022/pytorch-ppo): Minimal proximal policy gradient (clipped version) in PyTorch.
-- [d4rl-evaluations](https://github.com/zhihanyang2022/d4rl_evaluations/tree/main/results_analysis): Reproducing performance of offline reinforcement learning algorithms like behavior cloning, BCQ, BEAR and CQL on halfcheetah-v1
+- [d4rl-evaluations](https://github.com/zhihanyang2022/d4rl_evaluations/tree/main/results_analysis): Reproducing performance of offline reinforcement learning algorithms like behavior cloning, BCQ, BEAR and CQL on halfcheetah-v1.
 
 More theoretical models:
 
