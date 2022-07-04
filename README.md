@@ -21,7 +21,7 @@ Sequence:
 Control:
 
 - [alpha-zero](https://github.com/zhihanyang2022/alpha-zero): Minimal AlphaZero in PyTorch, trained on Connect4.
-- [classic-rl](https://github.com/zhihanyang2022/classic_rl): A modular implementation of tabular RL algorithms.
+- [classic-rl](https://github.com/zhihanyang2022/classic_rl): A modular implementation of tabular RL algorithms. Written while reading Sutton & Barto's Reinforcement Learning: An Introduction.
 - [off-policy-continuous-control](https://github.com/zhihanyang2022/off-policy-continuous-control): Recurrent Off-policy Baselines for Memory-based Continuous Control.
 - [pytorch-a2c](https://github.com/zhihanyang2022/pytorch-a2c): Synchronous n-step advantage actor-critic (A2C) with self-imitation learning in PyTorch
 - [pytorch-ppo](https://github.com/zhihanyang2022/pytorch-ppo): Minimal proximal policy gradient (clipped version) in PyTorch.
