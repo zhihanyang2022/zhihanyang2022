@@ -15,7 +15,7 @@ Image:
 
 Sequence:
 
-- [super_mario_as_a_string](https://github.com/zhihanyang2022/super_mario_as_a_string) Replication of Super Mario as a String: Platformer Level Generation Via LSTMs. Written in Python using Keras.
+- [super_mario_as_a_string](https://github.com/zhihanyang2022/super_mario_as_a_string): Replication of Super Mario as a String: Platformer Level Generation Via LSTMs. Written in Python using Keras.
 - [min-char-seq2seq](https://github.com/zhihanyang2022/min-char-seq2seq): Minimal character-level seq2seq in PyTorch for learners.
 
 Control:
