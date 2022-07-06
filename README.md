@@ -29,7 +29,7 @@ Reinforcement learning / Planning / Control:
 - [pytorch-ppo](https://github.com/zhihanyang2022/pytorch-ppo): Minimal proximal policy gradient (clipped version) in PyTorch.
 - [d4rl-evaluations](https://github.com/zhihanyang2022/d4rl_evaluations/tree/main/results_analysis): Reproducing performance of offline reinforcement learning algorithms like behavior cloning, BCQ, BEAR and CQL on halfcheetah-v1.
 
-More theoretical models:
+More probability-theoretic models:
 
 - [tmixfit](https://github.com/zhihanyang2022/tmixfit): Fast Expectation Maximization for Student-t mixture models in PyTorch.
 - [pytorch-vae](https://github.com/zhihanyang2022/pytorch-vae): Unbelievably minimal variational autoencoder using torch.distributions, trained on MNIST.
