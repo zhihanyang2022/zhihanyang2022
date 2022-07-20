@@ -6,8 +6,6 @@
 - Affiliation: Carleton College @ Northfield, Minnesota, USA
 - Email: yangz2 at carleton dot edu
 
----
-
 ### Projects
 
 Image:
