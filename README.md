@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/43589364/181162628-79605c96-7026-4d32-ab9a-65debf4ae82c.png)
+
 ### About me
 
 - Name: Zhihan Yang
