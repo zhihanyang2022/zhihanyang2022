@@ -1,5 +1,3 @@
-<img width="1049" alt="Screen Shot 2022-07-26 at 11 48 54 PM" src="https://user-images.githubusercontent.com/43589364/181163829-a4ec8174-7853-41cf-a068-3c27ab23419d.png">
-
 ### About me
 
 - Name: Zhihan Yang
