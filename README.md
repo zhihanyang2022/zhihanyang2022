@@ -30,7 +30,7 @@ Reinforcement learning / Planning / Control:
 More probability-theoretic models:
 
 - [tmixfit](https://github.com/zhihanyang2022/tmixfit): Fast Expectation Maximization for Student-t mixture models in PyTorch.
-<!-- - [pytorch-vae](https://github.com/zhihanyang2022/pytorch-vae): Unbelievably minimal variational autoencoder using torch.distributions, trained on MNIST.
+<!-- - [pytorch-vae](https://github.com/zhihanyang2022/pytorch-vae): Unbelievably minimal variational autoencoder using torch.distributions, trained on MNIST. -->
 - [pytorch-wgan](https://github.com/zhihanyang2022/pytorch-wgan): Minimal WGAN in PyTorch, trained on 1d datasets (with GIF animation).
 - [aevb-tutorial](https://github.com/zhihanyang2022/aevb-tutorial): Minimal VAE, Conditional VAE (CVAE), Gaussian Mixture VAE (GMVAE) and Variational RNN (VRNN) in PyTorch, trained on MNIST.
 
