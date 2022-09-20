@@ -1,11 +1,3 @@
-### About me
-
-- Name: Zhihan Yang
-- Pronouns: he/him/his
-- Major: Mathematics and Statistics
-- Affiliation: Carleton College @ Northfield, Minnesota, USA
-- Email: yangz2 at carleton dot edu
-
 ### Projects
 
 Image:
@@ -45,4 +37,12 @@ More probability-theoretic models:
 
 - Machine Learning: A Probabilistic Perspective by Kevin Murphy
 - Lost Connections by Johann Hari
+
+### About me
+
+- Name: Zhihan Yang
+- Pronouns: he/him/his
+- Major: Mathematics and Statistics
+- Affiliation: Carleton College @ Northfield, Minnesota, USA
+- Email: yangz2 at carleton dot edu
  -->
