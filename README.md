@@ -25,6 +25,10 @@ More probability-theoretic models:
 - [pytorch-wgan](https://github.com/zhihanyang2022/pytorch-wgan): Minimal WGAN in PyTorch, trained on 1d datasets (with GIF animation).
 - [aevb-tutorial](https://github.com/zhihanyang2022/aevb-tutorial): Minimal VAE, Conditional VAE (CVAE), Gaussian Mixture VAE (GMVAE) and Variational RNN (VRNN) in PyTorch, trained on MNIST.
 
+Independent studies:
+
+- [deep-bayes-summer2022](https://github.com/zhihanyang2022/deep-bayes-summer2022): Slides and notes of Bayesian + Deep Learning paper read during Summer 2022
+
 <!-- - [pytorch-vae](https://github.com/zhihanyang2022/pytorch-vae): Unbelievably minimal variational autoencoder using torch.distributions, trained on MNIST. -->
 
 <!-- ### Spare-time interests
