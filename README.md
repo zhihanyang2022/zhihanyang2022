@@ -24,6 +24,7 @@ More probability-theoretic models:
 - [tmixfit](https://github.com/zhihanyang2022/tmixfit): Fast Expectation Maximization for Student-t mixture models in PyTorch.
 - [pytorch-wgan](https://github.com/zhihanyang2022/pytorch-wgan): Minimal WGAN in PyTorch, trained on 1d datasets (with GIF animation).
 - [aevb-tutorial](https://github.com/zhihanyang2022/aevb-tutorial): Minimal VAE, Conditional VAE (CVAE), Gaussian Mixture VAE (GMVAE) and Variational RNN (VRNN) in PyTorch, trained on MNIST.
+- [bayesian-mixture-of-gaussians](https://github.com/zhihanyang2022/bayesian-mixture-of-gaussians): NumPy implementation of Coordinate Ascent Variational Inference for the Bayesian mixture of Gaussians model (Section 10.2 of Bishop's PRML).
 
 Bayesian inference:
 
