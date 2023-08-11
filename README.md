@@ -59,5 +59,5 @@ Independent studies:
 
 - Name: Zhihan Yang
 - Pronouns: he/him/his
-- Undergrad major: Mathematics, Statistics (double major)
+- Undergrad major: Mathematics, Statistics (2nd major), with a bunch of core and elective courses in Computer Science
 - Undergrad institution: Carleton College @ Northfield, Minnesota, USA
