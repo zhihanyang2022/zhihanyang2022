@@ -64,6 +64,8 @@ Independent studies:
 
  -->
 
+Take a look at these cool projects!
+
  <!--
 
 ### About me
