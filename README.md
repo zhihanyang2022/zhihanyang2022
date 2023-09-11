@@ -64,7 +64,7 @@ Independent studies:
 
  -->
 
- <--
+ <!--
 
 ### About me
 
