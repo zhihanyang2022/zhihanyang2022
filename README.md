@@ -68,7 +68,7 @@ I'm passionate about creating high-quality implementations of cool machine learn
 
 - [2023/09] Released [gradient-gmm](https://github.com/zhihanyang2022/gradient-gmm) for training GMMs for density estimation and variational inference
 - [2023/08] Released [vi-with-normalizing-flows](https://github.com/zhihanyang2022/vi-with-normalizing-flows) for reproducing "Variational Inference with Normalizing Flows"
-- [2021/08] Released [alpha-zero](https://github.com/zhihanyang2022/alpha-zero), a minimal implementation of DeepMind's AlphaZero that actually works
+- [2021/08] Released [alpha-zero](https://github.com/zhihanyang2022/alpha-zero), a minimal version of DeepMind's AlphaZero that beats humans on Connect 4
 
  <!--
 
