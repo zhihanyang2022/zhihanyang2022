@@ -64,7 +64,7 @@ Independent studies:
 
  -->
 
-Take a look at these cool projects!
+I'm passionate about creating high-quality implementations of cool machine learning algorithms. Check them out!
 
  <!--
 
