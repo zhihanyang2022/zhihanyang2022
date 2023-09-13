@@ -66,8 +66,8 @@ Independent studies:
 
 I'm passionate about creating high-quality implementations of cool machine learning algorithms. Check them out!
 
-- [2023/09] Open-sourced [gradient-gmm](https://github.com/zhihanyang2022/gradient-gmm) for training Gaussian mixture models for density estimation and variational inference
-- [2023/08] Open-sourced [vi-with-normalizing-flows](https://github.com/zhihanyang2022/vi-with-normalizing-flows) for reproducing the paper "Variational Inference with Normalizing Flows"
+- [2023/09] Open-sourced [gradient-gmm](https://github.com/zhihanyang2022/gradient-gmm) for training GMMs for density estimation and variational inference
+- [2023/08] Open-sourced [vi-with-normalizing-flows](https://github.com/zhihanyang2022/vi-with-normalizing-flows) for reproducing "Variational Inference with Normalizing Flows"
 
  <!--
 
