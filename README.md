@@ -66,6 +66,8 @@ Independent studies:
 
 I'm passionate about creating high-quality implementations of cool machine learning algorithms. Check them out!
 
+- [2023/09] Open-sourced gradient-gmm for training Gaussian mixture models for density estimation and variational inference
+
  <!--
 
 ### About me
