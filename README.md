@@ -66,7 +66,7 @@ Independent studies:
 
 Hi, my name is Zhihan 👋.
 
-I'm passionate about creating high-quality implementations of cool machine learning algorithms. Check them out below!
+I enjoy creating high-quality implementations of cool machine learning algorithms. Check them out below!
 
 I especially love algorithms that have to do with neural networks, probability models, and numerical linear algebra.
 
