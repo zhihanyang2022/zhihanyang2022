@@ -64,7 +64,7 @@ Independent studies:
 
  -->
 
-Hi, my name is Zhihan.
+Hi, my name is Zhihan 👋.
 
 I'm passionate about creating high-quality implementations of cool machine learning algorithms. Check them out below!
 
