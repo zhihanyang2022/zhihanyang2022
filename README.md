@@ -70,7 +70,7 @@ I'm passionate about creating high-quality implementations of cool machine learn
 
 I especially love algorithms that have to do with neural networks, probability theory, and numerical linear algebra.
 
-- [2023/09] [gradient-gmm](https://github.com/zhihanyang2022/gradient-gmm): training GMMs for density estimation and variational inference (PyTorch)
+- [2023/09] [gradient-gmm](https://github.com/zhihanyang2022/gradient-gmm): training GMMs for density estimation (without EM) and variational inference (PyTorch)
 - [2023/08] [vi-with-normalizing-flows](https://github.com/zhihanyang2022/vi-with-normalizing-flows): reproducing "Variational Inference with Normalizing Flows" (PyTorch)
 - [2021/08] [alpha-zero](https://github.com/zhihanyang2022/alpha-zero): a minimal version of DeepMind's AlphaZero that beats humans on Connect 4 (PyTorch)
 
