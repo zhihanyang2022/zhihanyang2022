@@ -68,7 +68,7 @@ Hi, my name is Zhihan 👋.
 
 I enjoy creating high-quality implementations of cool machine learning algorithms. Check them out below!
 
-I especially love algorithms that have to do with neural networks, probability models, and numerical linear algebra.
+I especially love algorithms that have to do with neural networks, probabilistic stuff, and numerical linear algebra.
 
 - [2023/09] [gradient-gmm](https://github.com/zhihanyang2022/gradient-gmm): training GMMs for density estimation (without EM) and variational inference (PyTorch)
 - [2023/08] [vi-with-normalizing-flows](https://github.com/zhihanyang2022/vi-with-normalizing-flows): reproducing "Variational Inference with Normalizing Flows" (PyTorch)
