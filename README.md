@@ -68,7 +68,9 @@ Hi, my name is Zhihan 👋.
 
 I enjoy creating high-quality implementations of cool machine learning algorithms. Check them out below!
 
-I especially love algorithms that have to do with neural networks, probabilistic stuff, and numerical linear algebra.
+High-level interests: generative modeling, unsupervised learning, uncertainty quantification, reinforcement learning
+
+Methodogical interests: neural networks, probabilistic graphical models, Bayesian inference, numerical linear algebra
 
 - [upcoming] [deep-gp](https://github.com/zhihanyang2022): reproducing "Deep Gaussian Processes" (AISTATS-13) (PyTorch)
 - [2023/09] [gradient-gmm](https://github.com/zhihanyang2022/gradient-gmm): training GMMs for density estimation (without EM) and variational inference (PyTorch)
