@@ -68,7 +68,7 @@ Hi, my name is Zhihan 👋.
 
 I enjoy creating high-quality implementations of cool machine learning algorithms. Check them out below!
 
-High-level interests: generative modeling, unsupervised learning, uncertainty quantification, reinforcement learning
+High-level interests: generative modeling, unsupervised learning, uncertainty quantification, reinforcement learning, images/sequences
 
 Methodogical interests: neural networks, probabilistic graphical models, Bayesian inference, numerical linear algebra
 
