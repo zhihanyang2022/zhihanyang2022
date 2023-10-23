@@ -72,7 +72,7 @@ High-level interests: generative modeling, unsupervised learning, uncertainty qu
 
 Methodogical interests: neural networks, probabilistic graphical models, Bayesian inference, numerical linear algebra
 
-- [upcoming] [deep-gp](https://github.com/zhihanyang2022): reproducing "Deep Gaussian Processes" (AISTATS-13) (PyTorch)
+- [upcoming] [ddpm](https://github.com/zhihanyang2022): reproducing "Denoising Diffusion Probabilistic Models" (NeurIPS-20) (PyTorch)
 - [2023/09] [gradient-gmm](https://github.com/zhihanyang2022/gradient-gmm): training GMMs for density estimation (without EM) and variational inference (PyTorch)
 - [2023/08] [vi-with-normalizing-flows](https://github.com/zhihanyang2022/vi-with-normalizing-flows): reproducing "Variational Inference with Normalizing Flows" (ICML-15) (PyTorch)
 - [2022/08] [aevb-tutorial](https://github.com/zhihanyang2022/aevb-tutorial): training VAE, conditional VAE, Gaussian Mixture VAE and Variational RNN on MNIST (PyTorch)
