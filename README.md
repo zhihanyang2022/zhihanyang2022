@@ -68,6 +68,7 @@ Hi, my name is Zhihan 👋.
 
 I enjoy creating high-quality implementations of cool machine learning algorithms. Check them out below!
 
+- [upcoming] [barf](https://github.com/zhihanyang2022/barf): reproducing "BARF: Bundle-Adjusting Neural Radiance Fields" (ICCV-21)
 - [upcoming] [diffusion](https://github.com/zhihanyang2022/diffusion): reproducing "Denoising Diffusion Probabilistic Models" (NeurIPS-20)
 - [upcoming] [nerf](https://github.com/zhihanyang2022/nerf): reproducing "NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis" (ECCV-20)
 - [upcoming] [sylvester-flows](https://github.com/zhihanyang2022/sylvester-flows): implementing "Sylvester Normalizing Flows for Variational Inference" (UAI-18)
