@@ -68,10 +68,10 @@ Hi, my name is Zhihan 👋.
 
 I enjoy creating high-quality implementations of cool machine learning algorithms. Check them out below!
 
-- [upcoming] [diffusion](https://github.com/zhihanyang2022/diffusion): reproducing "Denoising Diffusion Probabilistic Models" (NeurIPS-20)
-- [upcoming] [barf](https://github.com/zhihanyang2022/barf): reproducing "BARF: Bundle-Adjusting Neural Radiance Fields" (ICCV-21)
-- [upcoming] [nerf](https://github.com/zhihanyang2022/nerf): reproducing "NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis" (ECCV-20)
-- [upcoming] [sylvester-flows](https://github.com/zhihanyang2022/sylvester-flows): implementing "Sylvester Normalizing Flows for Variational Inference" (UAI-18)
+- [upcoming] [diffusion](https://github.com/zhihanyang2022/diffusion): PyTorch code for "Denoising Diffusion Probabilistic Models" (NeurIPS 20)
+- [upcoming] [barf](https://github.com/zhihanyang2022/barf): PyTorch code for "BARF: Bundle-Adjusting Neural Radiance Fields" (ICCV 21)
+- [upcoming] [nerf](https://github.com/zhihanyang2022/nerf): PyTorch code for "NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis" (ECCV 20)
+- [upcoming] [sylvester-flows](https://github.com/zhihanyang2022/sylvester-flows): PyTorch code for "Sylvester Normalizing Flows for Variational Inference" (UAI 18)
 - [2023/11] [dior](https://github.com/zhihanyang2022/dior): Differentiable reparameterization of tall matrices with orthogonal columns
 - [2023/09] [gradient-gmm](https://github.com/zhihanyang2022/gradient-gmm): Finite mixture of full-rank Gaussians for density estimation & variational inference in PyTorch
 - [2023/08] [vi-with-normalizing-flows](https://github.com/zhihanyang2022/vi-with-normalizing-flows): PyTorch code for "Variational Inference with Normalizing Flows" (ICML 2015)
