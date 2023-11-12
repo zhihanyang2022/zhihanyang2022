@@ -73,7 +73,7 @@ I enjoy creating high-quality implementations of cool machine learning algorithm
 - [upcoming] [nerf](https://github.com/zhihanyang2022/nerf): reproducing "NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis" (ECCV-20)
 - [upcoming] [sylvester-flows](https://github.com/zhihanyang2022/sylvester-flows): implementing "Sylvester Normalizing Flows for Variational Inference" (UAI-18)
 - [2023/11] [dior](https://github.com/zhihanyang2022/dior): Differentiable reparameterization of matrix orthogonalization in PyTorch
-- [2023/09] [gradient-gmm](https://github.com/zhihanyang2022/gradient-gmm): training GMMs for density estimation (without EM) and variational inference (PyTorch)
+- [2023/09] [gradient-gmm](https://github.com/zhihanyang2022/gradient-gmm): Fitting finite mixture of full-rank Gaussians for density estimation & variational inference in PyTorch
 - [2023/08] [vi-with-normalizing-flows](https://github.com/zhihanyang2022/vi-with-normalizing-flows): Unofficial PyTorch code for "Variational Inference with Normalizing Flows" (ICML 2015)
 - [2022/08] [aevb-tutorial](https://github.com/zhihanyang2022/aevb-tutorial): training VAE, conditional VAE, Gaussian Mixture VAE and Variational RNN on MNIST
 - [2022/01] [pytorch-ppo](https://github.com/zhihanyang2022/pytorch-ppo): a minimal version of the proximal policy gradient algorithm using the clipped objective
