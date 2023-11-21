@@ -68,6 +68,11 @@ Hi, my name is Zhihan 👋.
 
 I enjoy creating high-quality implementations of cool machine learning algorithms. Check them out below!
 
+| Date | Project | Description |
+| :---:        |     :---:      |          :---: |
+| 2023/11 | dior | Differentiable reparameterization of matrices with orthogonal columns |
+| git diff     | git diff       | git diff      |
+
 - [upcoming] [diffusion](https://github.com/zhihanyang2022/diffusion): PyTorch code for "Denoising Diffusion Probabilistic Models" (NeurIPS 20)
 - [upcoming] [barf](https://github.com/zhihanyang2022/barf): PyTorch code for "BARF: Bundle-Adjusting Neural Radiance Fields" (ICCV 21)
 - [upcoming] [nerf](https://github.com/zhihanyang2022/nerf): PyTorch code for "NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis" (ECCV 20)
