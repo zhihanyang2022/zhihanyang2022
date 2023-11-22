@@ -68,13 +68,19 @@ Hi, my name is Zhihan 👋.
 
 I enjoy creating high-quality implementations of cool machine learning algorithms. Check them out below!
 
+Paper implementations:
+
 - [upcoming] [diffusion](https://github.com/zhihanyang2022/diffusion): PyTorch code for "Denoising Diffusion Probabilistic Models" (NeurIPS 20)
 - [upcoming] [barf](https://github.com/zhihanyang2022/barf): PyTorch code for "BARF: Bundle-Adjusting Neural Radiance Fields" (ICCV 21)
 - [upcoming] [nerf](https://github.com/zhihanyang2022/nerf): PyTorch code for "NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis" (ECCV 20)
 - [upcoming] [sylvester-flows](https://github.com/zhihanyang2022/sylvester-flows): JAX code for "Sylvester Normalizing Flows for Variational Inference" (UAI 18)
+- [2023/08] [vi-with-normalizing-flows](https://github.com/zhihanyang2022/vi-with-normalizing-flows): PyTorch code for "Variational Inference with Normalizing Flows" (ICML 2015)
+- [2021/10] [offpcc][https://github.com/zhihanyang2022/offpcc]: PyTorch code for "Recurrent Off-policy Baselines for Memory-based Continuous Control" (DeepRL WS, NeurIPS 21)
+
+Mini projects:
+
 - [2023/11] [dior](https://github.com/zhihanyang2022/dior): Differentiable reparameterization of matrices with orthogonal columns
 - [2023/09] [gradient-gmm](https://github.com/zhihanyang2022/gradient-gmm): Finite mixture of full-rank Gaussians for density estimation & variational inference
-- [2023/08] [vi-with-normalizing-flows](https://github.com/zhihanyang2022/vi-with-normalizing-flows): PyTorch code for "Variational Inference with Normalizing Flows" (ICML 2015)
 - [2022/08] [aevb-tutorial](https://github.com/zhihanyang2022/aevb-tutorial): training VAE, conditional VAE, Gaussian Mixture VAE and Variational RNN on MNIST
 - [2022/01] [pytorch-ppo](https://github.com/zhihanyang2022/pytorch-ppo): a minimal version of the proximal policy gradient algorithm using the clipped objective
 - [2021/08] [alpha-zero](https://github.com/zhihanyang2022/alpha-zero): a minimal version of DeepMind's AlphaZero that beats humans on Connect 4
