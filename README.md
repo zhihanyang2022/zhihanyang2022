@@ -75,7 +75,7 @@ Paper implementations:
 - [upcoming] [nerf](https://github.com/zhihanyang2022/nerf): PyTorch code for "NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis" (ECCV 20)
 - [upcoming] [sylvester-flows](https://github.com/zhihanyang2022/sylvester-flows): JAX code for "Sylvester Normalizing Flows for Variational Inference" (UAI 18)
 - [2023/08] [vi-with-normalizing-flows](https://github.com/zhihanyang2022/vi-with-normalizing-flows): PyTorch code for "Variational Inference with Normalizing Flows" (ICML 2015)
-- [2021/10] [offpcc][https://github.com/zhihanyang2022/offpcc]: PyTorch code for "Recurrent Off-policy Baselines for Memory-based Continuous Control" (DeepRL WS, NeurIPS 21)
+- [2021/10] [offpcc](https://github.com/zhihanyang2022/offpcc): PyTorch code for "Recurrent Off-policy Baselines for Memory-based Continuous Control" (DeepRL WS, NeurIPS 21)
 
 Mini projects:
 
