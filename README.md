@@ -81,9 +81,9 @@ Mini projects:
 
 - [2023/11] [dior](https://github.com/zhihanyang2022/dior): Differentiable reparameterization of matrices with orthogonal columns
 - [2023/09] [gradient-gmm](https://github.com/zhihanyang2022/gradient-gmm): Finite mixture of full-rank Gaussians for density estimation & variational inference
-- [2022/08] [aevb-tutorial](https://github.com/zhihanyang2022/aevb-tutorial): training VAE, conditional VAE, Gaussian Mixture VAE and Variational RNN on MNIST
-- [2022/01] [pytorch-ppo](https://github.com/zhihanyang2022/pytorch-ppo): a minimal version of the proximal policy gradient algorithm using the clipped objective
-- [2021/08] [alpha-zero](https://github.com/zhihanyang2022/alpha-zero): a minimal version of DeepMind's AlphaZero that beats humans on Connect 4
+- [2022/08] [aevb-tutorial](https://github.com/zhihanyang2022/aevb-tutorial): Training VAE, conditional VAE, Gaussian Mixture VAE and Variational RNN on MNIST
+- [2022/01] [pytorch-ppo](https://github.com/zhihanyang2022/pytorch-ppo): A minimal version of the proximal policy gradient algorithm using the clipped objective
+- [2021/08] [alpha-zero](https://github.com/zhihanyang2022/alpha-zero): A minimal version of DeepMind's AlphaZero that beats humans on Connect 4
 
 <!--
 
