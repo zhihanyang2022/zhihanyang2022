@@ -62,6 +62,8 @@ Independent studies:
 - Machine Learning: A Probabilistic Perspective by Kevin Murphy
 - Lost Connections by Johann Hari
 
+- [upcoming] [barf](https://github.com/zhihanyang2022/barf): Unofficial PyTorch code for "BARF: Bundle-Adjusting Neural Radiance Fields" (ICCV 21)
+
  -->
 
 Hi, my name is Zhihan 👋.
@@ -71,7 +73,6 @@ I enjoy creating high-quality implementations of cool machine learning algorithm
 Paper implementations:
 
 - [upcoming] [diffusion](https://github.com/zhihanyang2022/diffusion): Unofficial PyTorch code for "Denoising Diffusion Probabilistic Models" (NeurIPS 20)
-- [upcoming] [barf](https://github.com/zhihanyang2022/barf): Unofficial PyTorch code for "BARF: Bundle-Adjusting Neural Radiance Fields" (ICCV 21)
 - [upcoming] [nerf](https://github.com/zhihanyang2022/nerf): Unofficial PyTorch code for "NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis" (ECCV 20)
 - [upcoming] [sylvester-flows](https://github.com/zhihanyang2022/sylvester-flows): Unofficial PyTorch code for "Sylvester Normalizing Flows for Variational Inference" (UAI 18)
 - [2023/08] [vi-with-normalizing-flows](https://github.com/zhihanyang2022/vi-with-normalizing-flows):  Unofficial PyTorch code for "Variational Inference with Normalizing Flows" (ICML 2015)
