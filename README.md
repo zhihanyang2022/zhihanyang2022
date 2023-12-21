@@ -68,12 +68,13 @@ Independent studies:
 
 Hi, my name is Zhihan 👋.
 
-I enjoy creating high-quality implementations of cool machine learning algorithms. Check them out below!
+I enjoy creating high-quality implementations of foundational machine learning algorithms. Check them out below!
 
 Paper implementations:
 
-- [upcoming] [diffusion](https://github.com/zhihanyang2022/diffusion): Unofficial PyTorch code for "Denoising Diffusion Probabilistic Models" (NeurIPS 20)
-- [upcoming] [nerf](https://github.com/zhihanyang2022/nerf): Unofficial PyTorch code for "NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis" (ECCV 20)
+- [upcoming] [yolo]: Unofficial PyTorch code for "You Only Look Once: Unified, Real-Time Object Detection"
+- [upcoming] [diffusion]: Unofficial PyTorch code for "Denoising Diffusion Probabilistic Models" (NeurIPS 20)
+- [upcoming] [nerf]: Unofficial PyTorch code for "NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis" (ECCV 20)
 - [upcoming] [sylvester-flows](https://github.com/zhihanyang2022/sylvester-flows): Unofficial PyTorch code for "Sylvester Normalizing Flows for Variational Inference" (UAI 18)
 - [2023/08] [vi-with-normalizing-flows](https://github.com/zhihanyang2022/vi-with-normalizing-flows):  Unofficial PyTorch code for "Variational Inference with Normalizing Flows" (ICML 2015)
 - [2021/10] [off-policy-continuous-control](https://github.com/zhihanyang2022/off-policy-continuous-control): Official PyTorch code for "Recurrent Off-policy Baselines for Memory-based Continuous Control" (DeepRL Workshop, NeurIPS 21)
