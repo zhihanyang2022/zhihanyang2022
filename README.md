@@ -72,7 +72,7 @@ I enjoy creating high-quality implementations of foundational machine learning a
 
 Paper implementations:
 
-- [upcoming] [yolo]: Unofficial PyTorch code for "You Only Look Once: Unified, Real-Time Object Detection"
+- [upcoming] [yolo]: Unofficial PyTorch code for "You Only Look Once: Unified, Real-Time Object Detection" (CVPR 2016)
 - [upcoming] [diffusion]: Unofficial PyTorch code for "Denoising Diffusion Probabilistic Models" (NeurIPS 20)
 - [upcoming] [nerf]: Unofficial PyTorch code for "NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis" (ECCV 20)
 - [upcoming] [sylvester-flows](https://github.com/zhihanyang2022/sylvester-flows): Unofficial PyTorch code for "Sylvester Normalizing Flows for Variational Inference" (UAI 18)
