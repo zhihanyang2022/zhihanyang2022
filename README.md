@@ -76,7 +76,7 @@ Paper demos / implementations:
 - [upcoming] [nerf]: Demo PyTorch code for "NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis" (ECCV 2020)
 - [upcoming] [diffusion]: Demo PyTorch code for "Denoising Diffusion Probabilistic Models" (NeurIPS 2020)
 - [upcoming] [sliced-score-matching]: Demo PyTorch code for "Sliced Score Matching: A Scalable Approach to Density and Score Estimation" (UAI 2019)
-- [upcoming] [glow]: Demo PyTorch code for "Glow: Generative Flow with Invertible 1×1 Convolutions" (NeurIPS 2018)
+- [upcoming] [nice]: Demo PyTorch code for "NICE: Non-linear Independent Components Estimation" (ICLR 2015 workshop)
 - [2024/1] [sylvester-flows](https://github.com/zhihanyang2022/sylvester-flows): Demo PyTorch code for "Sylvester Normalizing Flows for Variational Inference" (UAI 2018)
 - [2023/08] [vi-with-normalizing-flows](https://github.com/zhihanyang2022/vi-with-normalizing-flows):  Demo PyTorch code for "Variational Inference with Normalizing Flows" (ICML 2015)
 - [2021/10] [off-policy-continuous-control](https://github.com/zhihanyang2022/off-policy-continuous-control): Official PyTorch code for "Recurrent Off-policy Baselines for Memory-based Continuous Control" (DeepRL Workshop, NeurIPS 2021)
