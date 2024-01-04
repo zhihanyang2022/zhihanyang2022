@@ -70,7 +70,7 @@ Hi, my name is Zhihan 👋.
 
 I enjoy creating high-quality implementations of foundational machine learning algorithms. Check them out below!
 
-Paper implementations:
+Paper demos / implementations:
 
 - [upcoming] [yolo]: Demo PyTorch code for "You Only Look Once: Unified, Real-Time Object Detection" (CVPR 2016)
 - [upcoming] [nerf]: Demo PyTorch code for "NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis" (ECCV 2020)
