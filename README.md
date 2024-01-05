@@ -78,8 +78,8 @@ I enjoy creating high-quality implementations of foundational machine learning a
 
 Paper demos / implementations:
 
-- [2024/1] [sylvester-flows-pytorch](https://github.com/zhihanyang2022/sylvester-flows): Demo PyTorch code for "Sylvester Normalizing Flows for Variational Inference" (UAI 2018)
-- [2023/08] [vi-with-normalizing-flows](https://github.com/zhihanyang2022/vi-with-normalizing-flows):  Demo PyTorch code for "Variational Inference with Normalizing Flows" (ICML 2015)
+- [2024/1] [sylvester-flows-pytorch](https://github.com/zhihanyang2022/sylvester-flows-pytorch): Demo PyTorch code for "Sylvester Normalizing Flows for Variational Inference" (UAI 2018)
+- [2023/08] [normalizing-flows-pytorch](https://github.com/zhihanyang2022/normalizing-flows-pytorch):  Demo PyTorch code for "Variational Inference with Normalizing Flows" (ICML 2015)
 - [2021/10] [off-policy-continuous-control](https://github.com/zhihanyang2022/off-policy-continuous-control): Official PyTorch code for "Recurrent Off-policy Baselines for Memory-based Continuous Control" (DeepRL Workshop, NeurIPS 2021)
 
 Mini projects:
