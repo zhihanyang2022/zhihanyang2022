@@ -79,16 +79,16 @@ I enjoy creating high-quality implementations of foundational machine learning a
 Paper demos / implementations:
 
 - [2024/1] [sylvester-flows-pytorch](https://github.com/zhihanyang2022/sylvester-flows-pytorch): Demo PyTorch code for "Sylvester Normalizing Flows for Variational Inference" (UAI 2018)
-- [2023/08] [normalizing-flows-pytorch](https://github.com/zhihanyang2022/normalizing-flows-pytorch):  Demo PyTorch code for "Variational Inference with Normalizing Flows" (ICML 2015)
+- [2023/8] [normalizing-flows-pytorch](https://github.com/zhihanyang2022/normalizing-flows-pytorch):  Demo PyTorch code for "Variational Inference with Normalizing Flows" (ICML 2015)
 - [2021/10] [off-policy-continuous-control](https://github.com/zhihanyang2022/off-policy-continuous-control): Official PyTorch code for "Recurrent Off-policy Baselines for Memory-based Continuous Control" (DeepRL Workshop, NeurIPS 2021)
 
 Mini projects:
 
 - [2023/11] [dior](https://github.com/zhihanyang2022/dior): Differentiable reparameterization of matrices with orthogonal columns
-- [2023/09] [gradient-gmm](https://github.com/zhihanyang2022/gradient-gmm): Finite mixture of full-rank Gaussians for density estimation & variational inference
-- [2022/08] [aevb-tutorial](https://github.com/zhihanyang2022/aevb-tutorial): Training VAE, conditional VAE, Gaussian Mixture VAE and Variational RNN on MNIST
-- [2022/01] [pytorch-ppo](https://github.com/zhihanyang2022/pytorch-ppo): A minimal version of the proximal policy gradient algorithm using the clipped objective
-- [2021/08] [alpha-zero](https://github.com/zhihanyang2022/alpha-zero): A minimal version of DeepMind's AlphaZero that beats humans on Connect 4
+- [2023/9] [gradient-gmm](https://github.com/zhihanyang2022/gradient-gmm): Finite mixture of full-rank Gaussians for density estimation & variational inference
+- [2022/8] [aevb-tutorial](https://github.com/zhihanyang2022/aevb-tutorial): Training VAE, conditional VAE, Gaussian Mixture VAE and Variational RNN on MNIST
+- [2022/1] [pytorch-ppo](https://github.com/zhihanyang2022/pytorch-ppo): A minimal version of the proximal policy gradient algorithm using the clipped objective
+- [2021/8] [alpha-zero](https://github.com/zhihanyang2022/alpha-zero): A minimal version of DeepMind's AlphaZero that beats humans on Connect 4
 
 <!--
 
