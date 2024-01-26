@@ -76,6 +76,11 @@ Hi, my name is Zhihan 👋.
 
 I enjoy creating high-quality implementations of foundational machine learning algorithms. Check them out below!
 
+Course notes:
+
+- Linear algebra series by Prof Gilbert Strang: planned
+- Ordinary differential series by Prof Gilbert Strang: planned
+
 Paper demos / implementations:
 
 - [2024/2] [maf-pytorch](https://github.com/zhihanyang2022/maf-pytorch): Demo PyTorch code for "Masked Autoregressive Flow for Density Estimation" (NIPS 2018)
