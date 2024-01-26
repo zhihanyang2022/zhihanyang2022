@@ -94,7 +94,7 @@ Mini projects:
 Course notes:
 
 - Linear algebra series by Prof Gilbert Strang: planned
-- Ordinary differential series by Prof Gilbert Strang: planned
+- Ordinary differential equations series by Prof Gilbert Strang: planned
 
 <!--
 
