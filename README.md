@@ -76,7 +76,11 @@ Hi, my name is Zhihan 👋.
 
 I enjoy creating high-quality implementations of foundational machine learning algorithms. 
 
-Paper implementations:
+Released packages:
+
+- Upcoming
+
+Paper demos:
 
 - [2024/2] [maf-pytorch](https://github.com/zhihanyang2022/maf-pytorch): Demo PyTorch code for "Masked Autoregressive Flow for Density Estimation" (NIPS 2018)
 - [2024/1] [sylvester-flows-pytorch](https://github.com/zhihanyang2022/sylvester-flows-pytorch): Demo PyTorch code for "Sylvester Normalizing Flows for Variational Inference" (UAI 2018)
