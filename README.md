@@ -78,7 +78,7 @@ I enjoy creating high-quality implementations of foundational machine learning a
 
 Released packages:
 
-- [vijax](https://github.com/zhihanyang2022/vijax): JAX functions for conditional variational inference. Normalizing flows and mixtures of multivariate Gaussians.
+- [vijax](https://github.com/zhihanyang2022/vijax): Simple JAX functions for conditional variational inference. Normalizing flows and mixtures of multivariate Gaussians.
 
 Paper implementations:
 
