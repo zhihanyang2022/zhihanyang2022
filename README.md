@@ -78,7 +78,7 @@ I enjoy creating high-quality implementations of foundational machine learning a
 
 Released packages:
 
-- Upcoming
+- [vijax](https://github.com/zhihanyang2022/vijax): JAX functions for conditional variational inference
 
 Paper implementations:
 
