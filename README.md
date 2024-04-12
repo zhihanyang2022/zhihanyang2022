@@ -72,7 +72,7 @@ Independent studies:
 
  -->
 
-Hi, my name is Zhihan 👋. I work on machine learning research.
+Hi, my name is Zhihan. I work on machine learning research.
 
 <!--
 
