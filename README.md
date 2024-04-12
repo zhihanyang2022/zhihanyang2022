@@ -72,7 +72,9 @@ Independent studies:
 
  -->
 
-Hi, my name is Zhihan 👋.
+Hi, my name is Zhihan 👋. I work on machine learning research.
+
+<!--
 
 Paper implementations:
 
@@ -88,6 +90,8 @@ Mini projects:
 - [2022/8] [aevb-tutorial](https://github.com/zhihanyang2022/aevb-tutorial): Training VAE, conditional VAE, Gaussian Mixture VAE and Variational RNN on MNIST
 - [2022/1] [pytorch-ppo](https://github.com/zhihanyang2022/pytorch-ppo): A minimal version of the proximal policy gradient algorithm using the clipped objective
 - [2021/8] [alpha-zero](https://github.com/zhihanyang2022/alpha-zero): A minimal version of DeepMind's AlphaZero that beats humans on Connect 4
+
+-->
 
 <!--
 
